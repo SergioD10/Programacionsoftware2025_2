@@ -3,3 +3,4 @@ def Sumar(num1:int,num2:int)->int:
     return respuesta
 a=Sumar(1,2)
 print(a)
+print("Hostia")
